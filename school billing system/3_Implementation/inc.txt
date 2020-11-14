@@ -1,0 +1,54 @@
+/** 
+* @file school_billing_system.h
+* School_billing_system application 
+*
+*/
+
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
+#include<conio.h>
+#include<windows.h>
+
+/**
+void main(void)
+{
+    int i,j,k;
+    for(i=0; i<80; i++)
+    {
+     //   printf("\xdb");
+    }
+    printf("\n");
+    for(i=0; i<80; i++)
+    {
+       // printf("\xdb");
+    }
+*/
+
+void addrec(int j)
+{
+    int dif,cdat,ddat,month=0;//cdat=month till which fee is cleared
+    float ff;//used in calculatin of fee of different class
+    char c='y';
+}
+
+void searchrec(int j)
+{
+    char name[50],namet[50];
+    int a=1,choice;
+    char c='y';
+    if (j==1)
+    {
+        while(c=='y'||c=='Y')
+}
+
+void modrec(int j)
+{
+
+    char name[50];
+    int a=1,choice,cl,rolno;
+    char c='y';
+    if (j==1)
+    {
+        while(c=='y'||c=='Y')
+}

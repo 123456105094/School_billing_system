@@ -1,0 +1,33 @@
+#include <school_billing_system.h>
+
+int chkdat(int, int)
+{
+    return result;
+}
+
+int addrec(int)
+{
+    return add;
+}
+
+int modrec(int)
+{
+    return new result;
+}
+
+int searchrec(int)
+{
+     if (j==1)
+    {
+        while(c=='y'||c=='Y')
+        {
+            int a=1;
+
+	return result;
+}
+
+int delrec(int)
+{
+    return result;
+}
+
